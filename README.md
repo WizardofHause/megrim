@@ -1,24 +1,12 @@
-# README
+# Megrim
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Overview
+This is an exploratory Rails/React project to catalog and display user's migraine data. 
 
-Things you may want to cover:
+### Planned Features
+During this project I plan to do a deeper exploration into the client-side, i.e. React Hooks, React-Router-Dom, and Redux. 
 
-* Ruby version
+I also plan to integrate an external weather API, geolocation, and probably some Ruby gems. 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Connect
+Feel free to [reach out](https://www.linkedin.com/in/jon-hause/) for recommendations on the build or if you'd like to contribute. 
